@@ -1,14 +1,17 @@
 <h1 align="center">Hi there, I'm Ranvijay Singh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
--  I’m currently studying in **GL Bajaj Institute Of Technology And Management**
+- 🔭 I’m currently studying in **GL Bajaj Institute Of Technology And Management**
 
--  I’m currently learning **Java, Python, Html, Sql, Js**
+- 🌱 I’m currently learning **Java, Python, Html, Sql, Js**
+
+- Reach me at **ranvijaysingh5884@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/t-ranna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-ranna" height="30" width="40" /></a>
 <a href="https://instagram.com/_.ranvijay_singh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ranvijay_singh._" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/t-ranna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="t-ranna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
