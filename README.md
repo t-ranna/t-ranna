@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Ranvijay Singh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently studying in **GL Bajaj Institute Of Technology And Management**
+-  I’m currently studying in **GL Bajaj Institute Of Technology And Management**
 
-- 🌱 I’m currently learning **Java, Python, Html, Sql, Js**
+-  I’m currently learning **Java, Python, Html, Sql, Js**
 
 - Reach me at **ranvijaysingh5884@gmail.com**
 
