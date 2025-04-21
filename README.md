@@ -3,7 +3,7 @@
 
 -  I’m currently studying in **GL Bajaj Institute Of Technology And Management**
 
--  I’m currently learning **Java, Python, Html, Sql, Js**
+-  I’m currently learning **Java, Html, Sql**
 
 - Reach me at **ranvijaysingh5884@gmail.com**
 
